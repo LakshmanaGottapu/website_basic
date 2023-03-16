@@ -1,0 +1,18 @@
+*{
+    margin:0px;
+}
+
+div.topheader{
+    height:40px;
+    background-color: grey;
+    color:white;
+    font-size: 20px;
+    padding-top: 8px;
+}
+
+div.topheader#th1{
+    margin-left:3px;
+}
+div.topheader#th2{
+    margin-right:3px;
+}
