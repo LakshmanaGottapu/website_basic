@@ -19,9 +19,7 @@ div.header>div#h1{
     margin-left:3px;   
 }
 div.header>div#h2{
-    margin-top:50px;
-    
-    
+    margin-top:40px;
     background-color: white; 
 }
 div.header>div#h2>input[name=login]{
