@@ -20,17 +20,9 @@ div.header{
     background-color: white;
 }
 div.header>div#h1{
-    margin-left:3px;   
-}
-<<<<<<< Updated upstream
-div.header>div#h2{
-    margin-top:50px;
-    
-    
-=======
+    margin-left:3px; 
 div.header>div#h3{
     margin-top:40px;
->>>>>>> Stashed changes
     background-color: white; 
 }
 div.header>div#h3>input[name=login]{
